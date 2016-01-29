@@ -4,7 +4,7 @@ SimpleConvertImageToBase64
 
 ## Installation
 - Descarga el proyecto 
-- Colocalo en la carpeta que mas te plasca
+- Colocalo en la carpeta que mas te guste
 - Para ejecutar el proyecto
 	 npm start
 - en tu navegador   http://localhost:3009 y listo
